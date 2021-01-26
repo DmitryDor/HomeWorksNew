@@ -1,7 +1,35 @@
-.someClass {
-
+.parentsClass {
+    background-color: aliceblue;
+    margin: 0 40% 0 40%;
+    width: 30%;
 }
 
 .error {
     border: 1px solid red;
+}
+
+.messageError {
+    color: red;
+}
+
+.greeting {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.totalUsers {
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.inputGeneralClass {
+    margin-right: 15px;
+}
+
+.button {
+    margin: 2px;
+    border-radius: 5px;
+    height: 30px;
+    width: 55px;
+    background-color: floralwhite;
 }
